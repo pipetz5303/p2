@@ -1,9 +1,11 @@
 body{
     color: cornflowerblue;
     text-align: center;
+    font-family: Tahoma, sans-serif;
 }
 
-.footer{
+#footer{
     background-color: black;
     color: blanchedalmond;
+    padding: 0.2em;
 }
